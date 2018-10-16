@@ -1,0 +1,28 @@
+{
+    "variables":
+    {
+        "black": "#000000",
+        "blue": "#6b7da1ff",
+        "blue2": "#9DA9B4",
+        "blue5": "var(red)",
+        "green": "var(blue)",
+        "grey": "#b2aaa7",
+        "orange": "#ff583f",
+        "orange2": "#ff4136",
+        "orange3": "var(orange2)",
+        "pink": "var(white3)",
+        "red": "var(orange)",
+        "red2": "var(orange2)",
+        "white": "#ffffff",
+        "white2": "#f3f3f3",
+        "white3": "#e5e1e1",
+    },
+    "globals":
+    {
+        "background": "#28303C",
+        "caret": "var(white2)",
+        "foreground": "var(grey)",
+        "line_highlight": "var(grey)",
+        "selection": "var(blue3)"
+    }
+}
